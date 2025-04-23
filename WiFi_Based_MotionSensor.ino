@@ -2,12 +2,12 @@
 #include <ThingSpeak.h>
  
 // WiFi credentials
-const char* ssid = "Shabir";
-const char* password = "Awanhouse";
+const char* ssid = "Wi-Fi Name";              // Write name of your Wi-Fi inside double comma
+const char* password = "Wi-Fi Password";      // Write password of your Wi-Fi inside double comma
  
 // ThingSpeak settings
-unsigned long channelID = 2472655;
-const char* apiKey = "7U6I3TRHO3GTUBQP";
+unsigned long channelID = [Channel-ID];         // Write your Thing Speak channel ID removing square bracket
+const char* apiKey = "API Key";               // Write your API Key inside double comma 
  
 // PIR sensor pin
 const int pirPin = D2;
