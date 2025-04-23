@@ -16,13 +16,13 @@ This project uses a **PIR motion sensor** connected to a **NodeMCU ESP8266** to 
 
 ## 🧰 Hardware Requirements
 
-| Component              
-..........................
-| NodeMCU ESP8266 Board  
-| PIR Motion Sensor (e.g., HC-SR501)
-| Jumper Wires          
-| Breadboard or PCB      
-| 5V USB Power Supply    
+Component              
+
+ NodeMCU ESP8266 Board , 
+ PIR Motion Sensor (e.g., HC-SR501) ,
+ Jumper Wires ,         
+ Breadboard or PCB ,      
+ 5V USB Power Supply    
 
 ---
 
