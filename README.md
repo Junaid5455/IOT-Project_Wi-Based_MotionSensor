@@ -50,5 +50,5 @@ const char* apiKey = "Your-ThingSpeak-API-Key";
 
 
 JUNAID SHABEER
-Experimental Physicist & IoT Developer
+Experimental Physicist & IoT Developer....
 LinkedIn:- www.linkedin.com/in/junaid-shabeer-machine-learning-physicist-b860a4285
